@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "msg": null,
+  "data": [
+    {
+      "media": {
+        "name": "cat1",
+        "src": "http://locahost/img/cat1.jpg"
+      }
+    },
+    {
+      "media": {
+        "name": "cat2",
+        "src": "http://locahost/img/cat2.jpg"
+      }
+    }
+  ]
+}

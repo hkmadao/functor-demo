@@ -1,0 +1,16 @@
+{
+  "name": "functor-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "madao",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "data.task": "^3.1.2",
+    "ramda": "^0.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.4",
+    "@types/ramda": "^0.29.4"
+  }
+}
